@@ -1,0 +1,15 @@
+PARA OBTENER UN CSV ES NECESARIO LA IP:
+190.151.176.99:8080 | ip SV/MARN
+CON WGET ES POSIBLE OBTENER EL CSV
+wget "http://190.151.176.99:8080/fdsnws/station/1/query?starttime=2023-04-16T00%3A00%3A00&endtime=2023-04-17T00%3A00%3A00&network=SV&channel=%3F%3FZ&level=channel&format=text&nodata=404" -O rsn_SV_info.csv 
+
+CON AWK FILTRAMOS LA INFORMACION QUE DESEAMOS
+awk -F"|" '{print $1 "-" $2} rsn_SV_info.csv | grep Guralp
+PARA CONTAR LOS ELEMENTOS AGREGAMOS A LO ANTERIOR
+awk -F"|" '{print $2 " --- " $11}' rsn_SV_info.csv | grep Guralp | wc -l
+
+while read NET STAT LOC CHAN ; do if [[ $LOC == "--" ]] ; then LOC="" ; fi  ;  python3 generar_helicorder.py "${NET}" "$STAT" "$LOC" "$CHAN"; done < LINEAS_SV 
+
+para obtener las estaciones offline, es decir, las que no se procesaron con HELI_PSD_GEN.py basta con tomar la base de datos, copiarla y usarla en
+
+while read var1 var2; do -i sed '/${var1}.*${var2}/d' rsn_SV_info.csv ; done < ESTACIONES.txt

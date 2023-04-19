@@ -1,0 +1,798 @@
+%                          STATION IGN  CHAN  HNZ                              
+\subsubsection{IGN HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación IGN HNZ]{\label{IGN_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/IGN_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación IGN HNZ]{\label{IGN_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/IGN_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación IGN HNZ \ref{IGN_HNZ_a} y \ref{IGN_HNZ_b} respectivamente}
+\label{IGN_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION QUEZ  CHAN  HNZ                              
+\subsubsection{QUEZ HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación QUEZ HNZ]{\label{QUEZ_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/QUEZ_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación QUEZ HNZ]{\label{QUEZ_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/QUEZ_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación QUEZ HNZ \ref{QUEZ_HNZ_a} y \ref{QUEZ_HNZ_b} respectivamente}
+\label{QUEZ_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION PACA  CHAN  HNZ                              
+\subsubsection{PACA HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación PACA HNZ]{\label{PACA_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/PACA_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación PACA HNZ]{\label{PACA_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/PACA_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación PACA HNZ \ref{PACA_HNZ_a} y \ref{PACA_HNZ_b} respectivamente}
+\label{PACA_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION SAROG  CHAN  HNZ                              
+\subsubsection{SAROG HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación SAROG HNZ]{\label{SAROG_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/SAROG_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación SAROG HNZ]{\label{SAROG_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/SAROG_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación SAROG HNZ \ref{SAROG_HNZ_a} y \ref{SAROG_HNZ_b} respectivamente}
+\label{SAROG_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION TESAK  CHAN  HNZ                              
+\subsubsection{TESAK HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación TESAK HNZ]{\label{TESAK_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/TESAK_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación TESAK HNZ]{\label{TESAK_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/TESAK_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación TESAK HNZ \ref{TESAK_HNZ_a} y \ref{TESAK_HNZ_b} respectivamente}
+\label{TESAK_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION FAME  CHAN  HNZ                              
+\subsubsection{FAME HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación FAME HNZ]{\label{FAME_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/FAME_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación FAME HNZ]{\label{FAME_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/FAME_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación FAME HNZ \ref{FAME_HNZ_a} y \ref{FAME_HNZ_b} respectivamente}
+\label{FAME_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION HERRA  CHAN  HNZ                              
+\subsubsection{HERRA HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación HERRA HNZ]{\label{HERRA_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/HERRA_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación HERRA HNZ]{\label{HERRA_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/HERRA_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación HERRA HNZ \ref{HERRA_HNZ_a} y \ref{HERRA_HNZ_b} respectivamente}
+\label{HERRA_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION JAYA  CHAN  HNZ                              
+\subsubsection{JAYA HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación JAYA HNZ]{\label{JAYA_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/JAYA_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación JAYA HNZ]{\label{JAYA_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/JAYA_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación JAYA HNZ \ref{JAYA_HNZ_a} y \ref{JAYA_HNZ_b} respectivamente}
+\label{JAYA_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION COMAC  CHAN  HNZ                              
+\subsubsection{COMAC HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación COMAC HNZ]{\label{COMAC_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/COMAC_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación COMAC HNZ]{\label{COMAC_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/COMAC_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación COMAC HNZ \ref{COMAC_HNZ_a} y \ref{COMAC_HNZ_b} respectivamente}
+\label{COMAC_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION FAGO  CHAN  HNZ                              
+\subsubsection{FAGO HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación FAGO HNZ]{\label{FAGO_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/FAGO_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación FAGO HNZ]{\label{FAGO_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/FAGO_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación FAGO HNZ \ref{FAGO_HNZ_a} y \ref{FAGO_HNZ_b} respectivamente}
+\label{FAGO_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION UES  CHAN  HNZ                              
+\subsubsection{UES HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación UES HNZ]{\label{UES_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/UES_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación UES HNZ]{\label{UES_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/UES_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación UES HNZ \ref{UES_HNZ_a} y \ref{UES_HNZ_b} respectivamente}
+\label{UES_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION LOAL  CHAN  HNZ                              
+\subsubsection{LOAL HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación LOAL HNZ]{\label{LOAL_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/LOAL_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación LOAL HNZ]{\label{LOAL_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/LOAL_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación LOAL HNZ \ref{LOAL_HNZ_a} y \ref{LOAL_HNZ_b} respectivamente}
+\label{LOAL_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION LALI  CHAN  HNZ                              
+\subsubsection{LALI HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación LALI HNZ]{\label{LALI_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/LALI_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación LALI HNZ]{\label{LALI_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/LALI_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación LALI HNZ \ref{LALI_HNZ_a} y \ref{LALI_HNZ_b} respectivamente}
+\label{LALI_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION PANC  CHAN  HNZ                              
+\subsubsection{PANC HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación PANC HNZ]{\label{PANC_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/PANC_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación PANC HNZ]{\label{PANC_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/PANC_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación PANC HNZ \ref{PANC_HNZ_a} y \ref{PANC_HNZ_b} respectivamente}
+\label{PANC_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION JICA  CHAN  HNZ                              
+\subsubsection{JICA HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación JICA HNZ]{\label{JICA_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/JICA_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación JICA HNZ]{\label{JICA_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/JICA_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación JICA HNZ \ref{JICA_HNZ_a} y \ref{JICA_HNZ_b} respectivamente}
+\label{JICA_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION INTP  CHAN  HNZ                              
+\subsubsection{INTP HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación INTP HNZ]{\label{INTP_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/INTP_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación INTP HNZ]{\label{INTP_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/INTP_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación INTP HNZ \ref{INTP_HNZ_a} y \ref{INTP_HNZ_b} respectivamente}
+\label{INTP_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION CALU  CHAN  HNZ                              
+\subsubsection{CALU HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación CALU HNZ]{\label{CALU_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/CALU_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación CALU HNZ]{\label{CALU_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/CALU_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación CALU HNZ \ref{CALU_HNZ_a} y \ref{CALU_HNZ_b} respectivamente}
+\label{CALU_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION SVIPC  CHAN  HNZ                              
+\subsubsection{SVIPC HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación SVIPC HNZ]{\label{SVIPC_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/SVIPC_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación SVIPC HNZ]{\label{SVIPC_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/SVIPC_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación SVIPC HNZ \ref{SVIPC_HNZ_a} y \ref{SVIPC_HNZ_b} respectivamente}
+\label{SVIPC_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION SENPD  CHAN  HNZ                              
+\subsubsection{SENPD HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación SENPD HNZ]{\label{SENPD_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/SENPD_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación SENPD HNZ]{\label{SENPD_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/SENPD_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación SENPD HNZ \ref{SENPD_HNZ_a} y \ref{SENPD_HNZ_b} respectivamente}
+\label{SENPD_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION TEJUT  CHAN  HNZ                              
+\subsubsection{TEJUT HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación TEJUT HNZ]{\label{TEJUT_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/TEJUT_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación TEJUT HNZ]{\label{TEJUT_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/TEJUT_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación TEJUT HNZ \ref{TEJUT_HNZ_a} y \ref{TEJUT_HNZ_b} respectivamente}
+\label{TEJUT_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION LCNA  CHAN  HNZ                              
+\subsubsection{LCNA HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación LCNA HNZ]{\label{LCNA_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/LCNA_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación LCNA HNZ]{\label{LCNA_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/LCNA_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación LCNA HNZ \ref{LCNA_HNZ_a} y \ref{LCNA_HNZ_b} respectivamente}
+\label{LCNA_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION COTO  CHAN  HNZ                              
+\subsubsection{COTO HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación COTO HNZ]{\label{COTO_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/COTO_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación COTO HNZ]{\label{COTO_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/COTO_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación COTO HNZ \ref{COTO_HNZ_a} y \ref{COTO_HNZ_b} respectivamente}
+\label{COTO_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION ACABA  CHAN  HNZ                              
+\subsubsection{ACABA HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación ACABA HNZ]{\label{ACABA_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/ACABA_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación ACABA HNZ]{\label{ACABA_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/ACABA_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación ACABA HNZ \ref{ACABA_HNZ_a} y \ref{ACABA_HNZ_b} respectivamente}
+\label{ACABA_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION UNICI  CHAN  HNZ                              
+\subsubsection{UNICI HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación UNICI HNZ]{\label{UNICI_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/UNICI_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación UNICI HNZ]{\label{UNICI_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/UNICI_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación UNICI HNZ \ref{UNICI_HNZ_a} y \ref{UNICI_HNZ_b} respectivamente}
+\label{UNICI_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION LLGN  CHAN  HNZ                              
+\subsubsection{LLGN HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación LLGN HNZ]{\label{LLGN_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/LLGN_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación LLGN HNZ]{\label{LLGN_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/LLGN_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación LLGN HNZ \ref{LLGN_HNZ_a} y \ref{LLGN_HNZ_b} respectivamente}
+\label{LLGN_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION LOLO  CHAN  HNZ                              
+\subsubsection{LOLO HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación LOLO HNZ]{\label{LOLO_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/LOLO_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación LOLO HNZ]{\label{LOLO_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/LOLO_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación LOLO HNZ \ref{LOLO_HNZ_a} y \ref{LOLO_HNZ_b} respectivamente}
+\label{LOLO_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION BOLA  CHAN  HNZ                              
+\subsubsection{BOLA HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación BOLA HNZ]{\label{BOLA_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/BOLA_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación BOLA HNZ]{\label{BOLA_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/BOLA_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación BOLA HNZ \ref{BOLA_HNZ_a} y \ref{BOLA_HNZ_b} respectivamente}
+\label{BOLA_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION RBDL  CHAN  HNZ                              
+\subsubsection{RBDL HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación RBDL HNZ]{\label{RBDL_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/RBDL_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación RBDL HNZ]{\label{RBDL_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/RBDL_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación RBDL HNZ \ref{RBDL_HNZ_a} y \ref{RBDL_HNZ_b} respectivamente}
+\label{RBDL_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION SANTO  CHAN  HNZ                              
+\subsubsection{SANTO HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación SANTO HNZ]{\label{SANTO_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/SANTO_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación SANTO HNZ]{\label{SANTO_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/SANTO_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación SANTO HNZ \ref{SANTO_HNZ_a} y \ref{SANTO_HNZ_b} respectivamente}
+\label{SANTO_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION ELCAR  CHAN  HNZ                              
+\subsubsection{ELCAR HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación ELCAR HNZ]{\label{ELCAR_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/ELCAR_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación ELCAR HNZ]{\label{ELCAR_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/ELCAR_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación ELCAR HNZ \ref{ELCAR_HNZ_a} y \ref{ELCAR_HNZ_b} respectivamente}
+\label{ELCAR_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION CNRM  CHAN  HNZ                              
+\subsubsection{CNRM HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación CNRM HNZ]{\label{CNRM_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/CNRM_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación CNRM HNZ]{\label{CNRM_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/CNRM_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación CNRM HNZ \ref{CNRM_HNZ_a} y \ref{CNRM_HNZ_b} respectivamente}
+\label{CNRM_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION UDBS  CHAN  HNZ                              
+\subsubsection{UDBS HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación UDBS HNZ]{\label{UDBS_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/UDBS_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación UDBS HNZ]{\label{UDBS_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/UDBS_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación UDBS HNZ \ref{UDBS_HNZ_a} y \ref{UDBS_HNZ_b} respectivamente}
+\label{UDBS_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION ACAJ  CHAN  HNZ                              
+\subsubsection{ACAJ HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación ACAJ HNZ]{\label{ACAJ_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/ACAJ_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación ACAJ HNZ]{\label{ACAJ_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/ACAJ_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación ACAJ HNZ \ref{ACAJ_HNZ_a} y \ref{ACAJ_HNZ_b} respectivamente}
+\label{ACAJ_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION MAGT  CHAN  HNZ                              
+\subsubsection{MAGT HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación MAGT HNZ]{\label{MAGT_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/MAGT_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación MAGT HNZ]{\label{MAGT_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/MAGT_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación MAGT HNZ \ref{MAGT_HNZ_a} y \ref{MAGT_HNZ_b} respectivamente}
+\label{MAGT_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION PASA1  CHAN  HNZ                              
+\subsubsection{PASA1 HNZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación PASA1 HNZ]{\label{PASA1_HNZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HNZ/PASA1_HNZ.png}}}\hfill
+\subfloat[Helicorder de la estación PASA1 HNZ]{\label{PASA1_HNZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HNZ/PASA1_HNZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación PASA1 HNZ \ref{PASA1_HNZ_a} y \ref{PASA1_HNZ_b} respectivamente}
+\label{PASA1_HNZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION PAVA  CHAN  HHZ                              
+\subsubsection{PAVA HHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación PAVA HHZ]{\label{PAVA_HHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HHZ/PAVA_HHZ.png}}}\hfill
+\subfloat[Helicorder de la estación PAVA HHZ]{\label{PAVA_HHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HHZ/PAVA_HHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación PAVA HHZ \ref{PAVA_HHZ_a} y \ref{PAVA_HHZ_b} respectivamente}
+\label{PAVA_HHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION SBLS  CHAN  HHZ                              
+\subsubsection{SBLS HHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación SBLS HHZ]{\label{SBLS_HHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HHZ/SBLS_HHZ.png}}}\hfill
+\subfloat[Helicorder de la estación SBLS HHZ]{\label{SBLS_HHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HHZ/SBLS_HHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación SBLS HHZ \ref{SBLS_HHZ_a} y \ref{SBLS_HHZ_b} respectivamente}
+\label{SBLS_HHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION RBDL  CHAN  HHZ                              
+\subsubsection{RBDL HHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación RBDL HHZ]{\label{RBDL_HHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HHZ/RBDL_HHZ.png}}}\hfill
+\subfloat[Helicorder de la estación RBDL HHZ]{\label{RBDL_HHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HHZ/RBDL_HHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación RBDL HHZ \ref{RBDL_HHZ_a} y \ref{RBDL_HHZ_b} respectivamente}
+\label{RBDL_HHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION SNET  CHAN  HHZ                              
+\subsubsection{SNET HHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación SNET HHZ]{\label{SNET_HHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HHZ/SNET_HHZ.png}}}\hfill
+\subfloat[Helicorder de la estación SNET HHZ]{\label{SNET_HHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HHZ/SNET_HHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación SNET HHZ \ref{SNET_HHZ_a} y \ref{SNET_HHZ_b} respectivamente}
+\label{SNET_HHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION JAYA  CHAN  HHZ                              
+\subsubsection{JAYA HHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación JAYA HHZ]{\label{JAYA_HHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HHZ/JAYA_HHZ.png}}}\hfill
+\subfloat[Helicorder de la estación JAYA HHZ]{\label{JAYA_HHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HHZ/JAYA_HHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación JAYA HHZ \ref{JAYA_HHZ_a} y \ref{JAYA_HHZ_b} respectivamente}
+\label{JAYA_HHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION CEDA  CHAN  HHZ                              
+\subsubsection{CEDA HHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación CEDA HHZ]{\label{CEDA_HHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HHZ/CEDA_HHZ.png}}}\hfill
+\subfloat[Helicorder de la estación CEDA HHZ]{\label{CEDA_HHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HHZ/CEDA_HHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación CEDA HHZ \ref{CEDA_HHZ_a} y \ref{CEDA_HHZ_b} respectivamente}
+\label{CEDA_HHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION ARTIL  CHAN  HHZ                              
+\subsubsection{ARTIL HHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación ARTIL HHZ]{\label{ARTIL_HHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HHZ/ARTIL_HHZ.png}}}\hfill
+\subfloat[Helicorder de la estación ARTIL HHZ]{\label{ARTIL_HHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HHZ/ARTIL_HHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación ARTIL HHZ \ref{ARTIL_HHZ_a} y \ref{ARTIL_HHZ_b} respectivamente}
+\label{ARTIL_HHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION MTO3  CHAN  HHZ                              
+\subsubsection{MTO3 HHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación MTO3 HHZ]{\label{MTO3_HHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HHZ/MTO3_HHZ.png}}}\hfill
+\subfloat[Helicorder de la estación MTO3 HHZ]{\label{MTO3_HHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HHZ/MTO3_HHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación MTO3 HHZ \ref{MTO3_HHZ_a} y \ref{MTO3_HHZ_b} respectivamente}
+\label{MTO3_HHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION PACA  CHAN  HHZ                              
+\subsubsection{PACA HHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación PACA HHZ]{\label{PACA_HHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HHZ/PACA_HHZ.png}}}\hfill
+\subfloat[Helicorder de la estación PACA HHZ]{\label{PACA_HHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HHZ/PACA_HHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación PACA HHZ \ref{PACA_HHZ_a} y \ref{PACA_HHZ_b} respectivamente}
+\label{PACA_HHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION NUBE  CHAN  HHZ                              
+\subsubsection{NUBE HHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación NUBE HHZ]{\label{NUBE_HHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/HHZ/NUBE_HHZ.png}}}\hfill
+\subfloat[Helicorder de la estación NUBE HHZ]{\label{NUBE_HHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/HHZ/NUBE_HHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación NUBE HHZ \ref{NUBE_HHZ_a} y \ref{NUBE_HHZ_b} respectivamente}
+\label{NUBE_HHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION PIC2  CHAN  EHZ                              
+\subsubsection{PIC2 EHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación PIC2 EHZ]{\label{PIC2_EHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/EHZ/PIC2_EHZ.png}}}\hfill
+\subfloat[Helicorder de la estación PIC2 EHZ]{\label{PIC2_EHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/EHZ/PIC2_EHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación PIC2 EHZ \ref{PIC2_EHZ_a} y \ref{PIC2_EHZ_b} respectivamente}
+\label{PIC2_EHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION SJTE  CHAN  EHZ                              
+\subsubsection{SJTE EHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación SJTE EHZ]{\label{SJTE_EHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/EHZ/SJTE_EHZ.png}}}\hfill
+\subfloat[Helicorder de la estación SJTE EHZ]{\label{SJTE_EHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/EHZ/SJTE_EHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación SJTE EHZ \ref{SJTE_EHZ_a} y \ref{SJTE_EHZ_b} respectivamente}
+\label{SJTE_EHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION JUCU  CHAN  EHZ                              
+\subsubsection{JUCU EHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación JUCU EHZ]{\label{JUCU_EHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/EHZ/JUCU_EHZ.png}}}\hfill
+\subfloat[Helicorder de la estación JUCU EHZ]{\label{JUCU_EHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/EHZ/JUCU_EHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación JUCU EHZ \ref{JUCU_EHZ_a} y \ref{JUCU_EHZ_b} respectivamente}
+\label{JUCU_EHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION SCLA  CHAN  EHZ                              
+\subsubsection{SCLA EHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación SCLA EHZ]{\label{SCLA_EHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/EHZ/SCLA_EHZ.png}}}\hfill
+\subfloat[Helicorder de la estación SCLA EHZ]{\label{SCLA_EHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/EHZ/SCLA_EHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación SCLA EHZ \ref{SCLA_EHZ_a} y \ref{SCLA_EHZ_b} respectivamente}
+\label{SCLA_EHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION ARCE  CHAN  EHZ                              
+\subsubsection{ARCE EHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación ARCE EHZ]{\label{ARCE_EHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/EHZ/ARCE_EHZ.png}}}\hfill
+\subfloat[Helicorder de la estación ARCE EHZ]{\label{ARCE_EHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/EHZ/ARCE_EHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación ARCE EHZ \ref{ARCE_EHZ_a} y \ref{ARCE_EHZ_b} respectivamente}
+\label{ARCE_EHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION TECD  CHAN  EHZ                              
+\subsubsection{TECD EHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación TECD EHZ]{\label{TECD_EHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/EHZ/TECD_EHZ.png}}}\hfill
+\subfloat[Helicorder de la estación TECD EHZ]{\label{TECD_EHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/EHZ/TECD_EHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación TECD EHZ \ref{TECD_EHZ_a} y \ref{TECD_EHZ_b} respectivamente}
+\label{TECD_EHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION PMON  CHAN  EHZ                              
+\subsubsection{PMON EHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación PMON EHZ]{\label{PMON_EHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/EHZ/PMON_EHZ.png}}}\hfill
+\subfloat[Helicorder de la estación PMON EHZ]{\label{PMON_EHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/EHZ/PMON_EHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación PMON EHZ \ref{PMON_EHZ_a} y \ref{PMON_EHZ_b} respectivamente}
+\label{PMON_EHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION SLOR  CHAN  EHZ                              
+\subsubsection{SLOR EHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación SLOR EHZ]{\label{SLOR_EHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/EHZ/SLOR_EHZ.png}}}\hfill
+\subfloat[Helicorder de la estación SLOR EHZ]{\label{SLOR_EHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/EHZ/SLOR_EHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación SLOR EHZ \ref{SLOR_EHZ_a} y \ref{SLOR_EHZ_b} respectivamente}
+\label{SLOR_EHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION RANC  CHAN  EHZ                              
+\subsubsection{RANC EHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación RANC EHZ]{\label{RANC_EHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/EHZ/RANC_EHZ.png}}}\hfill
+\subfloat[Helicorder de la estación RANC EHZ]{\label{RANC_EHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/EHZ/RANC_EHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación RANC EHZ \ref{RANC_EHZ_a} y \ref{RANC_EHZ_b} respectivamente}
+\label{RANC_EHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION CEVE  CHAN  EHZ                              
+\subsubsection{CEVE EHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación CEVE EHZ]{\label{CEVE_EHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/EHZ/CEVE_EHZ.png}}}\hfill
+\subfloat[Helicorder de la estación CEVE EHZ]{\label{CEVE_EHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/EHZ/CEVE_EHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación CEVE EHZ \ref{CEVE_EHZ_a} y \ref{CEVE_EHZ_b} respectivamente}
+\label{CEVE_EHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION UEES  CHAN  EHZ                              
+\subsubsection{UEES EHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación UEES EHZ]{\label{UEES_EHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/EHZ/UEES_EHZ.png}}}\hfill
+\subfloat[Helicorder de la estación UEES EHZ]{\label{UEES_EHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/EHZ/UEES_EHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación UEES EHZ \ref{UEES_EHZ_a} y \ref{UEES_EHZ_b} respectivamente}
+\label{UEES_EHZ_STAT}
+\end{figure}
+\newpage
+
+
+%                          STATION SNJE  CHAN  EHZ                              
+\subsubsection{SNJE EHZ}
+
+
+\begin{figure}[H]
+\centering
+\subfloat[PSD de la estación SNJE EHZ]{\label{SNJE_EHZ_a}{\includegraphics[width=0.55\textwidth, height=0.55\textwidth]{ANALI/PSD/EHZ/SNJE_EHZ.png}}}\hfill
+\subfloat[Helicorder de la estación SNJE EHZ]{\label{SNJE_EHZ_b}{\includegraphics[width=0.45\textwidth, height=0.7\textwidth]{ANALI/HELI/EHZ/SNJE_EHZ_heli.png}}}
+\caption{Gráficos de \textit{Power Spectral Distribution} (PSD) y helicorder para la estación SNJE EHZ \ref{SNJE_EHZ_a} y \ref{SNJE_EHZ_b} respectivamente}
+\label{SNJE_EHZ_STAT}
+\end{figure}
+\newpage
+
+
